@@ -1,5 +1,13 @@
 # C Project with CMake
 
+Ensure you have `cmake` and `gcc` installed on your system. 
+
+In case of ubuntu or `apt` based distro : 
+
+```bash
+sudo apt install gcc cmake
+```
+
 ## Structure :
 
 ```
